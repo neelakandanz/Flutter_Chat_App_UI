@@ -2,6 +2,8 @@
 
 Flutter Chat Application Design(Whats App Clone)
 
+![Screenshot](3neelakandan.hostup-min.jpg)
+
 A small attempt to make an Chat app user interface in Flutter for Android and iOS
 
 ## Getting Started
